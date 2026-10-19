@@ -1,4 +1,4 @@
-import 'package:flutter/material.dart';
+import 'package:material_ui/material_ui.dart';
 import 'package:talker_flutter/src/ui/widgets/bottom_sheet.dart';
 import 'package:talker_flutter/talker_flutter.dart';
 
