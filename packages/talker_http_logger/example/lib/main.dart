@@ -1,4 +1,4 @@
-import 'package:flutter/material.dart';
+import 'package:material_ui/material_ui.dart';
 import 'package:http_interceptor/http/intercepted_client.dart';
 import 'package:talker_flutter/talker_flutter.dart';
 import 'package:talker_http_logger/talker_http_logger_interceptor.dart';
