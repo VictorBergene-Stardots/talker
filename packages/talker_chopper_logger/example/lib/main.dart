@@ -19,7 +19,7 @@ import 'package:example/services/converters/json_serializable_converter.dart';
 import 'package:example/services/photos_service.dart';
 import 'package:example/services/todos_service.dart';
 import 'package:example/services/users_service.dart';
-import 'package:flutter/material.dart';
+import 'package:material_ui/material_ui.dart';
 import 'package:talker_chopper_logger/talker_chopper_logger.dart';
 import 'package:talker_flutter/talker_flutter.dart';
 
