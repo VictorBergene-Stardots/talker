@@ -1,4 +1,4 @@
-import 'package:flutter/material.dart';
+import 'package:material_ui/material_ui.dart';
 import 'package:talker_flutter/talker_flutter.dart';
 import 'package:talker_shop_app_example/features/product/product.dart';
 import 'package:talker_shop_app_example/features/products/view/products_screen.dart';
